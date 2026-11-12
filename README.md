@@ -199,4 +199,4 @@ This repository serves as the official landing page for Faraway. The software is
 **Get the most recent version of Faraway today!**
 
 ---
-**Last updated:** 2026-11-11 17:02:36 UTC
+**Last updated:** 2026-11-12 00:13:19 UTC
